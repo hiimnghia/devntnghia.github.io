@@ -1,0 +1,10 @@
+Package: com.ntnghia.eraser
+Name: Eraser Cho 10.3.x
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Dùng để xoá Jailbreak. Đã được NTNghia fix lại để dùng với iOS 10.3.x. Các iOS khác dùng bản cũ.
+Author: Jay Freeman, NTNghia <nghiangusi2003@gmail.com>
+Section: Utilities
+Depends: firmware (>= 10.3), firmware (<= 10.3.3)
+Icon: file:///Applications/Eraser.app/Icon-60.png
+
