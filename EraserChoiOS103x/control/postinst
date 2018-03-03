@@ -1,9 +1,0 @@
-#!/bin/sh
-chown root:wheel /Applications/Eraser.app
-chown root:wheel /Applications/Eraser.app/Eraser_
-chown root:wheel /Applications/Eraser.app/Eraser.dylib
-chmod 6755 /Applications/Eraser.app/Eraser_
-chmod 0755 /Applications/Eraser.app/
-chmod 0644 /Applications/Eraser.app/Eraser.dylib
-mv /etc/hosts /etc/hosts.old
-exit 0
